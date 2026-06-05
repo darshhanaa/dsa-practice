@@ -1,4 +1,4 @@
-# Two Sum
+# The Two Sum
 
 ## Problem
 Find two numbers in an array whose sum equals a given target.
