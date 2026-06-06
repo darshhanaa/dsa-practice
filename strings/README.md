@@ -8,4 +8,6 @@ This folder contains basic string programs and implementations in C/C++.
 - String reverse
 - String operations
 
-Currently under development.
+## Implemented Programs
+- String Length
+- String Reverse
