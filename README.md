@@ -20,6 +20,24 @@ This repository contains my Data Structures and Algorithms (DSA) learning journe
 - strings
 - stack
 
+  ## Progress
+
+### Arrays
+- Array Traversal
+
+### Strings
+- String Length
+- String Reverse
+- String Palindrome
+- String Uppercase
+
+### Stack
+- Stack using Array
+
+### Searching
+- Linear Search
+- Binary Search
+
 ## Purpose
 This repository is used to:
 - Store DSA assignments
