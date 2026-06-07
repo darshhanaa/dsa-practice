@@ -14,6 +14,12 @@ This repository contains my Data Structures and Algorithms (DSA) learning journe
 - Sorting Algorithms
 - Recursion
 
+  ## Repository Structure
+
+- arrays
+- strings
+- stack
+
 ## Purpose
 This repository is used to:
 - Store DSA assignments
