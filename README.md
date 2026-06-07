@@ -1,5 +1,7 @@
 # DSA Practice
 
+Learning Data Structures and Algorithms through implementations and problem solving.
+
 This repository contains my Data Structures and Algorithms (DSA) learning journey as a Computer Engineering student.
 
 ## Topics
